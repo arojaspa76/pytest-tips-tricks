@@ -1,5 +1,4 @@
-[![Python application test with Github Actions](https://github.com/noahgift/pytest-tips-tricks/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/noahgift/pytest-tips-tricks/actions/workflows/testing-ci.yml)
-[![AWS](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibm1YdHFvMzVaQ0hrQS9oRlFGUVhoVy9wWmNHNmQyMGRkTWwwaE9ocEU5TFRRYXJmQWtwaVc1NkxSbGcrOTBLM0RJN0VFS09jSWFoQWxIQUpGUHdYbFkwPSIsIml2UGFyYW1ldGVyU3BlYyI6IlFXcDJNdWhqV3VYL3M1d2oiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+[![Python application test with Github Actions - Andres Rojas 03/14/2025](https://github.com/arojaspa76/pytest-tips-tricks/actions/workflows/testing-ci-afrp.yml/badge.svg)](https://github.com/arojaspa76/pytest-tips-tricks/actions/workflows/testing-ci-afrp.yml)
 
 ## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
 
